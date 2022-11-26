@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shartaz Sajid Nahid</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shartazsajidnahid" alt="shartazsajidnahid" /></a> </p>
-
 - 📫 How to reach me **bsse1123@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
